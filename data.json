@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Agustin",
+        "apellido": "Alterisio",
+        "edad": 18,
+        "id": 1
+    },
+    {
+        "nombre": "Loise",
+        "apellido": "Xeneize",
+        "edad": 18,
+        "id": 2
+    },
+    {
+        "nombre": "Marco",
+        "apellido": "Masa",
+        "edad": 18,
+        "id": 3
+    },
+    {
+        "nombre": "Santiago",
+        "apellido": "Falcusi",
+        "edad": 18,
+        "id": 4
+    },
+    {
+        "nombre": "Geronimo",
+        "apellido": "Corpus",
+        "edad": 0,
+        "id": 4
+    }
+]
